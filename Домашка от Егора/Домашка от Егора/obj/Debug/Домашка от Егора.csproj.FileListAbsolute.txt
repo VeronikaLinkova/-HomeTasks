@@ -1,0 +1,7 @@
+C:\Users\vakri\source\repos\Домашка от Егора\Домашка от Егора\bin\Debug\Домашка от Егора.exe.config
+C:\Users\vakri\source\repos\Домашка от Егора\Домашка от Егора\bin\Debug\Домашка от Егора.exe
+C:\Users\vakri\source\repos\Домашка от Егора\Домашка от Егора\bin\Debug\Домашка от Егора.pdb
+C:\Users\vakri\source\repos\Домашка от Егора\Домашка от Егора\obj\Debug\Домашка от Егора.csprojAssemblyReference.cache
+C:\Users\vakri\source\repos\Домашка от Егора\Домашка от Егора\obj\Debug\Домашка от Егора.csproj.CoreCompileInputs.cache
+C:\Users\vakri\source\repos\Домашка от Егора\Домашка от Егора\obj\Debug\Домашка от Егора.exe
+C:\Users\vakri\source\repos\Домашка от Егора\Домашка от Егора\obj\Debug\Домашка от Егора.pdb
